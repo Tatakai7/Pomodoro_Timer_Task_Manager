@@ -77,13 +77,13 @@ This project is licensed under the MIT License — feel free to use, modify, and
 git clone https://github.com/yourusername/pomodoro-timer-task-manager.git
 cd pomodoro-timer-task-manager
 
-### 2️⃣ Install Dependencies
+2️⃣ Install Dependencies
 npm install
 
-### 3️⃣ Install Lucide React (for icons)
+3️⃣ Install Lucide React (for icons)
 npm install lucide-react
 
-### 4️⃣ Run the App
+4️⃣ Run the App
 npm run dev
 
 Then open 👉 http://localhost:5173 in your browser.
