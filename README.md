@@ -30,6 +30,46 @@ Perfect for boosting focus, organizing your to-dos, and maintaining healthy work
 
 ---
 
+## 🕹️ How to Use
+1. Add your tasks — Write down what you need to accomplish.
+2. Start the timer — Work for 25 minutes without distractions.
+3. Take a break — Relax for 5 minutes before your next session.
+4. Repeat & achieve — Stay consistent, build focus habits, and watch your task list shrink.
+   💡 Tip: Adjust work/break durations (if available) to fit your productivity rhythm.
+
+---
+
+## 🧭 Roadmap
+- [ ] Add customizable timer durations  
+- [ ] Add long break cycles after 4 sessions  
+- [ ] Implement sound notifications  
+- [ ] Sync tasks with cloud storage  
+- [ ] Add dark/light theme toggle
+
+---
+
+## 🤝 Contributing
+Got ideas to improve focus, productivity, or design?
+We welcome pull requests and contributions from everyone!
+
+  ## Contribution Steps
+  1. Fork this repository
+  2. Create a new branch (feature/amazing-idea)
+  3. Commit your changes
+  4. Push your branch
+  5. Open a Pull Request 🎉
+
+---
+
+## 📜 License
+This project is licensed under the MIT License — feel free to use, modify, and share!
+
+---
+
+⏰ “Focus on what matters, one Pomodoro at a time.”
+
+---
+
 ## ⚙️ Installation  
 
 ### 1️⃣ Clone the Repository  
