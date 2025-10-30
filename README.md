@@ -74,7 +74,7 @@ This project is licensed under the MIT License — feel free to use, modify, and
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/pomodoro-timer-task-manager.git
+git clone https://github.com/Tatakai7/Pomodoro_Timer_Task_Manager.git
 cd pomodoro-timer-task-manager
 
 2️⃣ Install Dependencies
