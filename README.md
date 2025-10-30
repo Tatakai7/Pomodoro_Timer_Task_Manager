@@ -7,6 +7,15 @@ Perfect for boosting focus, organizing your to-dos, and maintaining healthy work
 
 ---
 
+## 📸 Preview  
+
+<p align="center">
+  <!-- Replace with your actual screenshot or GIF link -->
+  <img src="https://via.placeholder.com/800x450.png?text=Pomodoro+Timer+%26+Task+Manager+Preview" alt="App Preview" width="80%">
+</p>
+
+---
+
 ## 🌟 Features  
 
 - ⏱️ **Pomodoro Timer** — Stay productive using 25-minute focus sessions with short breaks.  
@@ -37,3 +46,16 @@ Perfect for boosting focus, organizing your to-dos, and maintaining healthy work
 git clone https://github.com/yourusername/pomodoro-timer-task-manager.git
 cd pomodoro-timer-task-manager
 
+### 2️⃣ Install Dependencies
+```bash
+npm install
+
+### Install Lucide React (for icons)
+```bash
+npm install lucide-react
+
+### 4️⃣ Run the App
+```bash
+npm run dev
+
+Then open 👉 http://localhost:5173 in your browser.
